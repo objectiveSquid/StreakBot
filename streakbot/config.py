@@ -2,8 +2,8 @@ import logging
 
 
 # ----- Account -----
-ACCOUNT_IDENTIFIER = "magnus.kz"
-PASSWORD = "Januar2023"
+ACCOUNT_IDENTIFIER = "(USERNAME HERE)"
+PASSWORD = "(PASSWORD HERE)"
 
 # ----- Streak settings -----
 STREAK_EMOJI = "🔥"
